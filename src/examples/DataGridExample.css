@@ -1,0 +1,9 @@
+.data-grid-example {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.data-grid-example-table {
+  flex: 1 0 auto;
+}
